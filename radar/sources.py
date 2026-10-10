@@ -16,7 +16,8 @@ SPAM_OWNERS = {
     "scottcjn", "rustchain", "misakanet", "ikalus1988", "auscaster", "relayhop",
     "unsafelabs", "securebananalabs", "kodaksax", "vansh-09", "freedom-winds",
     "2510034127qq-wq", "dev-kp-eloper", "fufufu1116", "nspg13", "ldavis2700",
-    "alstonburbach", "xsovad06", "ahavahdev1", "srm-test-dev", "woahwhattheheck",
+    # Removed 'woahwhattheheck' as it posts valid bounty issues
+
     "ninjastevexer0", "soso-infinite", "chicostate", "prins1bap-ui", "eras256",
     "johnchampaign", "sourav-ojha", "paraloom-labs",
 }
